@@ -1,8 +1,10 @@
 # 📘 Comp102: Programming Concepts (C++) 
 ### 🎓Faculty of Science - Minia University
+  ---
+ This repository is for students of the Faculty of Science at Minia University and contains the source code and practical examples explained during the lectures.
+مخصص لطلاب كلية العلوم بجامعة المنيا، ويحتوي على الأكواد والأمثلة العملية المشروحة خلال المحاضرات.
 
-This repository is for students of the Faculty of Science at Minia University and contains the source code and practical examples explained during the lectures.
----
+ ---
 
 ## 📌 محتويات المادة (Course Roadmap)
 
