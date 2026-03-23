@@ -1,8 +1,7 @@
 # 📘 Comp102: Programming Concepts (C++) 
 ### 🎓Faculty of Science - Minia University
 
-مرحباً بكم في المستودع التعليمي لمادة **"تكملة المفاهيم الأساسية في البرمجة"** باستخدام لغة **++C**. هذا المستودع مخصص لطلاب كلية العلوم بجامعة المنيا، ويحتوي على الأكواد المصدرية والأمثلة التطبيقية التي يتم شرحها خلال المحاضرات.
-
+This repository is for students of the Faculty of Science at Minia University and contains the source code and practical examples explained during the lectures.
 ---
 
 ## 📌 محتويات المادة (Course Roadmap)
