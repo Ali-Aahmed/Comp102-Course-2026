@@ -11,7 +11,7 @@
 
 | الموضوع (Topic) | وصف المحتوى | رابط الأكواد (Folder) |
 | :--- | :--- | :--- |
-| **01. Loops** | جمل التكرار (For, While, Do-While) والتكرار المتداخل | [📂 View Codes](./01-Loops) |
+| **01. Loops** | جمل التكرار (For, While, Do-While) والتكرار المتداخل | [📂 View Codes](./Lectures/Lec01-Loops) |
 | **02. Arrays** | المصفوفات أحادية البعد وتطبيقاتها | [📂 View Codes](./02-Arrays) |
 | **03. 2D-Arrays** | المصفوفات ثنائية البعد والعمليات عليها | [📂 View Codes](./03-Arrays-2D) |
 | **04. Functions** | بناء الدوال، تمرير المعاملات، والقيم المسترجعة | [📂 View Codes](./04-Functions) |
