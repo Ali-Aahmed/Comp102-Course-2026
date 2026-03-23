@@ -18,7 +18,9 @@
 | **04. Functions** | بناء الدوال، تمرير المعاملات، والقيم المسترجعة | [📂 View Codes](./04-Functions) |
 | **05. Pointers** | مفاهيم المؤشرات، العناوين، والتعامل مع الذاكرة | [📂 View Codes](./05-Pointers) |
 | **06. Strings** | التعامل مع النصوص والمصفوفات الحرفية (String Library) | [📂 View Codes](./06-Strings) |
-
+| **04. Functions** | Modular Programming | 🚧 **Coming Soon (Next Lecture)** |
+| **05. Pointers** | Memory Addresses & Pointers | ⏳ **Under Construction** |
+| **06. Strings** | String Library & Char Arrays | ⏳ **Wait for Lecture** |
 ---
 
 ## 🛠️ متطلبات التشغيل (Requirements)
