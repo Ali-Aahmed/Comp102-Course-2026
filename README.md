@@ -15,7 +15,7 @@
 | **01. Loops** | جمل التكرار (For, While, Do-While) والتكرار المتداخل | [📂 View Codes](./Lectures/Lec01-Loops) |
 | **02. Arrays** | المصفوفات أحادية البعد وتطبيقاتها | [📂 View Codes](./Lectures/Lec02-Arrays) |
 | **03. 2D-Arrays** | المصفوفات ثنائية البعد والعمليات عليها | [📂 View Codes](./Lectures/Lec03-Arrays-2D) |
-| **04. Functions** | بناء الدوال، تمرير المعاملات، والقيم المسترجعة | 🚧 **Coming Soon**  |
+| **04. Functions** | بناء الدوال، تمرير المعاملات، والقيم المسترجعة | [📂 View Codes](./Lectures/Lec04-Functions) |
 | **05. Pointers** | مفاهيم المؤشرات، العناوين، والتعامل مع الذاكرة | 🚧 **Coming Soon**  |
 | **06. Strings** | التعامل مع النصوص والمصفوفات الحرفية (String Library) | 🚧 **Coming Soon**  |
 ---
