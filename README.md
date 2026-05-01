@@ -16,8 +16,7 @@
 | **02. Arrays** | المصفوفات أحادية البعد وتطبيقاتها | [📂 View Codes](./Lectures/Lec02-Arrays) |
 | **03. 2D-Arrays** | المصفوفات ثنائية البعد والعمليات عليها | [📂 View Codes](./Lectures/Lec03-Arrays-2D) |
 | **04. Functions** | بناء الدوال، تمرير المعاملات، والقيم المسترجعة | [📂 View Codes](./Lectures/Lec04-Functions) |
-| **05. Pointers** | مفاهيم المؤشرات، العناوين، والتعامل مع الذاكرة | 🚧 **Coming Soon**  |
-| **06. Strings** | التعامل مع النصوص والمصفوفات الحرفية (String Library) | 🚧 **Coming Soon**  |
+| **05. Pointers and Strings** | مفاهيم المؤشرات، العناوين، والتعامل مع الذاكرة |[📂 View Codes] [https://github.com/Ali-Aahmed/Comp102-Course-2026/blob/master/Lectures/Lect7_Pointers&Strings/Pointers.cpp]| 
 ---
 
 ## 🛠️ متطلبات التشغيل (Requirements)
